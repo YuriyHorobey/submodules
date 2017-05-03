@@ -1,3 +1,6 @@
 [submodule "agnostic-loan-calculator"]
 	path = agnostic-loan-calculator
 	url = https://github.com/YuriyHorobey/submodules-agnostic-loan-calculator.git
+[submodule "api-loan-calculator"]
+	path = api-loan-calculator
+	url = https://github.com/YuriyHorobey/submodules-api-loan-calculator.git
