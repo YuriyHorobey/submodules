@@ -1,3 +1,3 @@
 # Test repository
 
-Testing GIT submodules (repos in the repo)
+Testing GIT submodules (repos in the repo)..
